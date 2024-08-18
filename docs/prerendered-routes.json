@@ -1,0 +1,19 @@
+{
+  "routes": [
+    "/",
+    "/about",
+    "/biblestudy",
+    "/contact",
+    "/for_2024messages",
+    "/messages",
+    "/ministering-to-the-lord",
+    "/ministering-to-the-lord/Bible_study",
+    "/ministering-to-the-lord/MTTL-2022",
+    "/ministering-to-the-lord/MTTL-2023",
+    "/ministering-to-the-lord/NewWine",
+    "/ministering-to-the-lord/SOTS",
+    "/ministering-to-the-lord/years",
+    "/service",
+    "/testimony"
+  ]
+}

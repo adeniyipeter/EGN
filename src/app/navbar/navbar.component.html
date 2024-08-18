@@ -1,0 +1,30 @@
+<header *ngFor="let item of loge " >
+  <div class="container">
+      <div class="row">
+          <div class="col-md-3 col-sm-3 col-3">
+              <div class="logo">
+                  <img [src]="item.title" class="logo" [alt]=" item.name">
+              </div>
+          </div>
+          <div class="col-md-9 col-sm-9 col-9 text-end">
+            <div class="menu-icon" (click)="openMenu()">
+              <i class="{{menu_icon}} text-black"></i>
+          </div>
+
+              <div class="desktop_menu" [class.mobile_menu]="menuValue">
+                  <ul>
+
+                      <div class="px-2 pt-2 pb-3 space-y-1">
+                      <li (click)="closeMenu()"> <a routerLink="/" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">Home</a> </li>
+                      <li (click)="closeMenu()">  <a routerLink="/about" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">About us</a> </li>
+                      <li (click)="closeMenu()">  <a routerLink="/service" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">Services</a> </li>
+                      <li (click)="closeMenu()">  <a routerLink="/testimony" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">Testimony</a> </li>
+                      <li (click)="closeMenu()">  <a routerLink="/contact" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">Contact</a> </li>
+                      <li (click)="closeMenu()">  <a routerLink="/messages" class="block text-black hover:bg-red-950 hover:text-white rounded-md px-3 py-2 text-base font-medium">Messages</a> </li>
+                    </div>
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </div>
+</header>

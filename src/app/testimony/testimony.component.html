@@ -1,0 +1,15 @@
+<div class="mt-20">
+<h4 class="text-black  md:text-3xl lg:text-5xl font-extrabold font-serif text-center mb-4 mt3">TESTIMONIALS</h4>
+<div class="grid gap-2  md:grid-cols-3 md:gap-5 mt-0 mx text-center">
+    <div class="m-7 mr-0" *ngFor="let view of test">
+
+
+        <div class="px-6 py-4">
+          <div class=" text-justify text-xl mb-2"><p class="" >{{view.information}}</p></div>
+          <h4 class="text-black-500 text-base md:font-semibold text-3md"> {{view.name |uppercase}} </h4>
+        </div>
+
+
+      </div>
+    </div>
+  </div>

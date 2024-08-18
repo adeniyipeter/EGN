@@ -1,0 +1,492 @@
+014534e083cd3c62f1ae628a15e7a4a8f6965501
+2f8886b50be79f5541c6b4a589735d3db0487e0d
+740d489b777257bed4a8457196938cec7e05d622
+9bce2c7bb12ef383df0e22d647134795529265f1
+aaf47ce280560424d9b5791edd187b67fcbaa719
+bb83fee670172bf297127d7a234365de35711ead
+14721013ff0836eaf256eb68a0b1832d15ffa556 
+591ade5af9f0a49ec290706f9d0014c41a980aa1 
+5cda6fb3eb62bd14a712a4fdbe452691b6510b3e 
+66592075f8da7c98e87fe459a9592f347f507c92 
+d4f54394b56c333b529a8720f6e3217139b5eaff 
+ffb44571b6b44718882d0a8e4b4a8e408edf7385 
+128fd2373d591c29546220d03c7cf236db0a09a2 Desktop
+2840d496ad571eb034d877d97abf08d7fb1543df Desktop
+9d41870ecb5e358080175fb533918443a8959272 Desktop
+ab3723180e99dbc412b76a3346d7d448ba693ee2 Desktop
+bcc51a156cb1dde014232b9de0a4012219f3cc93 Desktop
+dc03bc59b751097c2e4598af445ced59bec25fa2 Desktop
+079fc2f9a700234fcd91569af0433e27de51e38f Desktop/EGN_WEBSITE
+151f9c8c902981eea9f5616d00afc85108800b02 Desktop/EGN_WEBSITE
+26aaadca542f1d2fd7f10e7b787d347da30d574e Desktop/EGN_WEBSITE
+7590b8df66893372e99bfd7bdc5f975818ea5343 Desktop/EGN_WEBSITE
+2f818cb1d0e0d4907deb4c67195cb787ad7c4250 Desktop/EGN_WEBSITE/my_documetation_work
+978c603c92004205e0fef0d2d0e4f919fd64db72 Desktop/EGN_WEBSITE/my_documetation_work
+9a3b0b947a1cca3fa307f92f8574e274ed2d9fdb Desktop/EGN_WEBSITE/my_documetation_work
+bb7219d2842f1b915e1e9ee6ad02ae0ad144179e Desktop/EGN_WEBSITE/my_documetation_work
+4eb4c3cf0d79e455242eda8c811b8b04dc9c54dc Desktop/EGN_WEBSITE/my_documetation_work/.angular
+aaf9698d1a5b92d4a2034027ae5a89bf420b851f Desktop/EGN_WEBSITE/my_documetation_work/.angular
+b0b4c08e7c486edcb0e1de42908f663b3e61c682 Desktop/EGN_WEBSITE/my_documetation_work/.angular
+828d9b4174a13ea62754d549d5ac99afdd3c4539 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache
+aacf8a721ff5b6c6e6e720e2bb251ddfa2a65b59 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache
+d2f116fababd7313625f996235ec67081996202b Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache
+1ffb5424a1467524b6ca1fd7ebe9ccce5036c99e Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10
+5539ec3bbe6f4c0c55bd673478ba99256539c955 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10
+b3172cdb58e552927b9b43b471ad117a15f1ee82 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10
+4924ae48336a8eb889b248dba6447fd9ac7864ae Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work
+c60eaafc552836727d5d97c0b8de0b3154a080c6 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work
+e57da4e27111725a520155336f0cef4237c8c264 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work
+28ddcfe59d80eeb4f0baaa0e982e92241587d366 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work/.tsbuildinfo
+9ee450037327a97ee1d1eddccba8161a9b1f34bd Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work/.tsbuildinfo
+a27b71edfb0fef96fcd23d5a0b246533ff3a52ed Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/my_documetation_work/.tsbuildinfo
+08065db6528a2600d4308e38fed8a3e4fb3ef6dd Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite
+e4c8cb3196ba32d74612f2e408656908fb60bda4 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite
+8b490c6bec8f472ae79cf9b22c53a74c8f8f2976 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps
+c087727cd0f6f12ae68d2a18e0b4c2d3891b729a Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps
+d757b7762d9a9ab27d4d60f3ec3e65a84cff87de Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_animations.js
+6bcdba6e8ffceb566112287b6e7aa09a6226e34d Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_animations.js.map
+19c8c5dce16cb37a542a9181b309a66607d5fe5d Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_common.js
+98652118b6862120fb1a693020ad8654fe85851d Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_common.js.map
+fed82a729a5242ba2d9372939a9d6864827709d8 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_core.js
+778f03ff28d166b702f348acb8b8021193e7f8ea Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_platform-browser.js
+7d94cedbe9d47712648af02d79f9ff6daad0a46a Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_router.js
+38e014258753ad0c5b3f1f1563822beb104352f1 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/@angular_router.js.map
+823acb984dfd1e93cb4e1d425f38b6e339dcbb48 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/_metadata.json
+9fface11aad91a56dfd615be2bed3d3c45a4258c Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/_metadata.json
+083672273f06b346887e4ec7048ac28aec10ffdf Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-7EWUOI4Z.js
+9002a56d292ea3c08a6501495b01db064960e9c6 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-7EWUOI4Z.js.map
+812c1926ef602f2d93d63b7c40b9908d97d40409 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-IBOIJDAZ.js
+8ecde9c0e38790974f499afeb6b276eecce8edb3 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-IBOIJDAZ.js.map
+54ea7736e441f9254250e67c1e01afe057976f08 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-X7JLKNB6.js
+fc690e0b62f5568274ffa50968cafb0ec00a6ff2 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/chunk-X7JLKNB6.js.map
+3dbc1ca591c0557e35b6004aeba250e6a70b56e3 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps/package.json
+e96f02e6e3043fc4614865bd24673160431a37d3 Desktop/EGN_WEBSITE/my_documetation_work/.angular/cache/17.0.10/vite/deps_temp_af9ae238
+59d9a3a3e73ffc640517ef488f6f89d6270195d1 Desktop/EGN_WEBSITE/my_documetation_work/.editorconfig
+0711527ef9d5c117396e6c03290a76658e6384ed Desktop/EGN_WEBSITE/my_documetation_work/.gitignore
+1d3a2c4d10815558f896120bee220bbfe9e476de Desktop/EGN_WEBSITE/my_documetation_work/.gitignore
+ad1914f0992003dc4bc8bcfb5b9c43aa195a4b74 Desktop/EGN_WEBSITE/my_documetation_work/.gitignore
+c223f9d3d46371493868be3eb601f64fefe8e41f Desktop/EGN_WEBSITE/my_documetation_work/.gitignore
+10d066f35a22aa8094b8d517242f3434a174f868 Desktop/EGN_WEBSITE/my_documetation_work/.vscode
+77b374577de83b86d846eadda2dd17532d7dabaa Desktop/EGN_WEBSITE/my_documetation_work/.vscode/extensions.json
+925af837050a4abe679c5fea0df7e41faf6fc011 Desktop/EGN_WEBSITE/my_documetation_work/.vscode/launch.json
+a298b5bd8796ac377fe9ed64caa249e24c7ec3b6 Desktop/EGN_WEBSITE/my_documetation_work/.vscode/tasks.json
+4c10a2b3adfc6de7aa741ce7ca5df43a2e259f7b Desktop/EGN_WEBSITE/my_documetation_work/angular.json
+5cd895c98b989d4f426ed17423b2b778fbe04ecd Desktop/EGN_WEBSITE/my_documetation_work/docs
+b2b15d1f6c1bfb83cd7459635089a8b529d2fe44 Desktop/EGN_WEBSITE/my_documetation_work/docs/3rdpartylicenses.txt
+bde7814566d8b88584a664dc2ecab1642147f841 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser
+08803b66ec218a96dd1a18dff93b24df5f8b266b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/about
+7c6a8e2d4c4a14a0e8f00b469f45b609f9557d12 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/about/index.html
+d181b6026f225eff36f9c1231307e9b139de6a72 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets
+c22bec711c056f4351a291e263ef8a1220129875 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image
+3e442cfe21de04e137060a7632469abd1831b19b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/1723218508543.jpg
+fa1f8101936a16b64ab70860084f8f26e7e9dc0f Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/1723230495454.jpg
+4db70f46ba690ecbaa106bed801e83b421b50b74 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle ayo.jpg
+372616fb7a82b50c27754a2b25d1d68ba7bc53ee Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle ayo2.jpg
+8cb614975915eeb87d8045d4de90a713324da98f Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle ayo3.jpg
+b8ade1cc4ebbb77dc37f1279c2b4509523fa97ca Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle1.jpg
+8561d52714a27f6bcffb07b877a82d6528fc3143 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle2.jpg
+b5efc812d54bf2d84595640e500956c2dc280fcf Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle3.jpg
+a1bd5b804c6c889f65fb9da316d44e9266fdf2f4 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle4.jpg
+521249367ccafbc0f119f4b369237503c961a572 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/apostle5.jpg
+a1a6d4f7de1df7934994b7fec954c36a38a45bf7 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/BIBLE_STUDY.jpg
+92ad49359b4b0cbdfe77a21e5adef5a69b013660 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/EGN_LOGO.jpg
+352ef3af3e8f6b26743f95aea88ade3ef683a7cb Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/IMG-20240424-WA0059.jpg
+4934f931ce6fc19c82fd89ad5adf7ad9e519cf52 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/logo.jpg
+452e760688c52e8fcbb4df0fd9f8e10f4ea43b7f Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/mttl (1).jpg
+e1c72132da3a6b9f74b7f39beca7fc317e25d9a7 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/NSOTS.jpg
+2181ef391d0b1c93e1c7f7a1de1fdc96fff1c749 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/paradigm shift.jpg
+39245d0001fb62489628a344d641c93e9be698d9 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/photo.jpg
+830c558e5d0722d68ca6764f4272710357256a9b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/photo_2024-03-14_19-42-02.jpg
+bf5353e9ca0ef8d68f20edc3f05f4797309caeec Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/service 1.jpg
+0520811144bf09aa34c0737f9c2d955eb5feb5b8 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/assets/image/SOTS.jpg
+82ddb6fb7fafd0cd7dc63c3bdd0e7f36293b42d8 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/biblestudy
+75ace2568ded3bcc23097414a1f24e7fdf77d20d Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/biblestudy/index.html
+08a403a66c80090162f6bd918b965c0f765b4aca Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/chunk-QHTE3WLF.js
+92f11731d6e3acc35fe34e13635f3b8b19625a50 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/chunk-Y4IUDD6X.js
+d603e91853028c1d02f8ba8e1381f47f39943893 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/contact
+25c02694cad6d72889401921746fc230dbe843b7 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/contact/index.html
+57614f9c967596fad0a3989bec2b1deff33034f6 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/favicon.ico
+25b81c1956bf6fbbd34a723aa4235238742d07a3 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/for_2024messages
+a45a8b1aede32c244863251fbbc113d9b94ca60a Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/for_2024messages/index.html
+27955c489ea4e1728bce10118071aa30a3564ac2 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/index.html
+16ce137f8d35833e8c883dcd1f4d1552aa7f8f19 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/main-ME2NERQO.js
+6b74b14789e371d84d52bcf365445b2efb6838ef Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/media
+51204d27de92c7bb0f8bed6165b9dc888f38ff38 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/media/bootstrap-icons-OCU552PF.woff
+92c4830216044ba21db9f4294b887312e80da38e Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/media/bootstrap-icons-X6UQXWUS.woff2
+a070a84f943f1ac5048442047229dff3dae2d09c Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/messages
+0e0457d4dc0c68f9f999b1ab519b0160c347e831 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/messages/index.html
+1fce7383c4c8e97970b370af39aff722382dde13 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord
+75ecffee52c94b783dd889bb1183dbc5d993de5b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/Bible_study
+5e309bec9ac13b37589c369f150fa61fc1b09257 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/Bible_study/index.html
+1c5fcb66a8cc56c269a7c53959d573a1c83926be Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/index.html
+183821084b3adfb7991d40b9c21e69a99c04ecb6 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/MTTL-2022
+f552dee7efd5c9edd98d451dd4b9c199a6a24754 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/MTTL-2022/index.html
+37edc89329383d90c0ea7f2f74559f13bca4c166 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/MTTL-2023
+accea49fa1c2f426bdd268c960660eef83764684 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/MTTL-2023/index.html
+73d806b036da99caf47cf69e023556165bd36310 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/NewWine
+dfff9724da144b0f8929df42dc4eb3da3d22889c Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/NewWine/index.html
+58250f99ab08690b89f058ac8f0de27a10a3086b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/SOTS
+f67ccb902b9c1cfde8f7d96ee1688b93717b5064 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/SOTS/index.html
+72cd064f2e520aaa9dabd114510b1f28032f8586 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/years
+1677af60f80ae3f852fd1abbc2ba80b2b7b1f6ef Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/ministering-to-the-lord/years/index.html
+eba136a38d2179966bb30e71a0d4262b50ae334c Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/polyfills-RX4V3J3S.js
+368076f300395b14c876dde8accba52e247b1488 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/service
+457cf445b67c863201bf4cff05edca391cf697cd Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/service/index.html
+a8812637d1df572b63cc8506f35396b05ac3e085 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/styles-XTPMG2YA.css
+e4753082b3618d29164757ae2836fd50a856db08 Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/testimony
+21c5d73546e0864b7ea82fcba9ff0bfdef36f92b Desktop/EGN_WEBSITE/my_documetation_work/docs/browser/testimony/index.html
+dd4b434c078e92109154b7891c7710c3cc3c8494 Desktop/EGN_WEBSITE/my_documetation_work/docs/prerendered-routes.json
+4b82254ab9b4f1db6114b8379f31d2a096794792 Desktop/EGN_WEBSITE/my_documetation_work/docs/server
+6396e3b4ca6732e5b2f88ffa2f5c3b26c567c62e Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-53JWIC36.mjs
+ac5aef7520a27a4b809b45d9dd4304e6fb9eaf16 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-B2XAGEJG.mjs
+f296c6bc44cf927bc72943f20cee5574f503491d Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-J3SJ7NTU.mjs
+73708178425012e1f8eabd6b1b09c6ee03a62aa6 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-KRLCULJA.mjs
+5dd9d5959e25409a99b8791f7ba8eddd5dccee15 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-NJG4N3UW.mjs
+0e978f580291a04e3734eb371ebf5a14a37f3c53 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-PM2CRG7X.mjs
+487ab4268a4e45b96a78b12a989ac47951314d45 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/chunk-S6WYO6AN.mjs
+b6c9592da9ef26d6cb98ef64faba4174e660cb62 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/index.server.html
+ac176f949c9d6afd65be009798ce41c501974b6b Desktop/EGN_WEBSITE/my_documetation_work/docs/server/main.server.mjs
+3f04e106dcf4a93d2fbfa861d85a1c9c13a89625 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/polyfills.server.mjs
+9432b8b4184deb371d7a916ef7c133b9e250e8ca Desktop/EGN_WEBSITE/my_documetation_work/docs/server/render-utils.server.mjs
+680f8cf4ca1e76f16f07fc365cadf661ee18de91 Desktop/EGN_WEBSITE/my_documetation_work/docs/server/server.mjs
+48c22fbaac757f485d6409502894d7c43d943b86 Desktop/EGN_WEBSITE/my_documetation_work/package.json
+14dfdf15e1482ca283c064575d79e159e5aa08f8 Desktop/EGN_WEBSITE/my_documetation_work/package-lock.json
+f625ac389016df19742905a97e85502225ec95a3 Desktop/EGN_WEBSITE/my_documetation_work/pic
+9fb6d8bbf694d238eff8809cff029a3bb8e20575 Desktop/EGN_WEBSITE/my_documetation_work/pic/1706182767725.jpg
+b06b7916b1d66b42c3b4599619058cea23aaf64f Desktop/EGN_WEBSITE/my_documetation_work/pic/1706182918989.jpg
+7ac7c128a9fd6e082c9f859ca307317d6f4ca4c0 Desktop/EGN_WEBSITE/my_documetation_work/pic/1706182926247.jpg
+a86e2365376cdf07872e1a82ceccb67c4ac90641 Desktop/EGN_WEBSITE/my_documetation_work/pic/1706182932202.jpg
+2f89d7c8c44e0ce8f0b6d4eab4df606da7f52fc9 Desktop/EGN_WEBSITE/my_documetation_work/pic/1706183040509.jpg
+f534c2ce1bbc0c71b46c7bcd3ab7278d70a7204b Desktop/EGN_WEBSITE/my_documetation_work/pic/1706183096948.jpg
+8e98ca68bebd52029ca9b289ee4c6c88eb209c74 Desktop/EGN_WEBSITE/my_documetation_work/README.md
+7083b14fe9d5c31dfc7ea7d70f75a65443e4a26c Desktop/EGN_WEBSITE/my_documetation_work/server.ts
+b008d8bdbca0c5bafe9be6e20f2cab53729dc35a Desktop/EGN_WEBSITE/my_documetation_work/src
+f919c59ee21ae1712cd742606e413e10b590ef06 Desktop/EGN_WEBSITE/my_documetation_work/src
+9d14cb5643898e10a121d00bdecd9a160184337e Desktop/EGN_WEBSITE/my_documetation_work/src/app
+7b1a033c2ab8a6f362bcd31dfff809076d129637 Desktop/EGN_WEBSITE/my_documetation_work/src/app/about-us
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 Desktop/EGN_WEBSITE/my_documetation_work/src/app/about-us/about-us.component.css
+009017334477b85acefaf13aa8d1394966352dcf Desktop/EGN_WEBSITE/my_documetation_work/src/app/about-us/about-us.component.html
+f614217d6a1cdac64bc24df906050842496b2271 Desktop/EGN_WEBSITE/my_documetation_work/src/app/about-us/about-us.component.spec.ts
+1d48f54f79697c906d1b7f8c99cc6e4638dd81b0 Desktop/EGN_WEBSITE/my_documetation_work/src/app/about-us/about-us.component.ts
+84db317933ff2792c2a2956c39d93e3a22c856c2 Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.component.html
+06bb5cb3ce28614575cd5cc2f7a916373b215562 Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.component.spec.ts
+3ff51dd1cce0b1506eb5cd1e1fd87c5f86aa7c3d Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.component.ts
+b4d57c94235f8af487a209ce944e62ffdfdac8c2 Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.config.server.ts
+e5a3cf1005002a3ca7efc4bbaaad838481e9ff56 Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.config.ts
+161e54d4d6d6bd6d2e29265ea50d25c43a47a820 Desktop/EGN_WEBSITE/my_documetation_work/src/app/app.routes.ts
+ee96210cdc8722c5813e7dbb5299b72434bf6206 Desktop/EGN_WEBSITE/my_documetation_work/src/app/bible-study-year
+5f82cd4465917ecc87c81e9a9c86ff28b40b120f Desktop/EGN_WEBSITE/my_documetation_work/src/app/bible-study-year/bible-study-year.component.html
+a15b2f8d07f7f0b3e5e0289815a287f9e6cde3c9 Desktop/EGN_WEBSITE/my_documetation_work/src/app/bible-study-year/bible-study-year.component.spec.ts
+63afd07ab4bece93c6312ea4d43f8226c6bdf8e4 Desktop/EGN_WEBSITE/my_documetation_work/src/app/bible-study-year/bible-study-year.component.ts
+aee693cf401eb189cbd1d63e31d4ff9d311bb086 Desktop/EGN_WEBSITE/my_documetation_work/src/app/carousel
+bc28bfd340d8b41b17caba621f1eecef05ef4580 Desktop/EGN_WEBSITE/my_documetation_work/src/app/carousel/carousel.component.css
+700fe201a84eeeff68329e669cae1bd81b63ccee Desktop/EGN_WEBSITE/my_documetation_work/src/app/carousel/carousel.component.html
+62cfce3823da0466ca0d6cda36bb33408efb9c27 Desktop/EGN_WEBSITE/my_documetation_work/src/app/carousel/carousel.component.spec.ts
+72432bff30acd40bd2a6c6d14d1d4c30434a20aa Desktop/EGN_WEBSITE/my_documetation_work/src/app/carousel/carousel.component.ts
+23a3ac317f900a86f22d8943db30555bd2ccdbda Desktop/EGN_WEBSITE/my_documetation_work/src/app/contact
+710ed8f038c7d303ef2677e73da0591cd47663c3 Desktop/EGN_WEBSITE/my_documetation_work/src/app/contact/contact.component.html
+fce51697318b89e87e2112d592a03f7cb03b7a7e Desktop/EGN_WEBSITE/my_documetation_work/src/app/contact/contact.component.spec.ts
+59f0d3cfd7eeb1a1b28b8a9d6428c322e424217a Desktop/EGN_WEBSITE/my_documetation_work/src/app/contact/contact.component.ts
+7dcbb977a4f28a8aa939ffa6dc4d9b6f7bd3fc39 Desktop/EGN_WEBSITE/my_documetation_work/src/app/footer
+c42b6e9ea17d3859e000a3052212d1c63a945f23 Desktop/EGN_WEBSITE/my_documetation_work/src/app/footer/footer.component.html
+4647de81a23d1f10b6f7d0d174988102df72430e Desktop/EGN_WEBSITE/my_documetation_work/src/app/footer/footer.component.spec.ts
+e2d1a44cecb8d8afa16b596a5ca1b44396d73fb1 Desktop/EGN_WEBSITE/my_documetation_work/src/app/footer/footer.component.ts
+cea45eb80d0f09a426f9b787a00fcabf1dbdeb7c Desktop/EGN_WEBSITE/my_documetation_work/src/app/homecomponet
+e4370edcaad8220233f04053938f09be53de9eb3 Desktop/EGN_WEBSITE/my_documetation_work/src/app/homecomponet/homecomponet.component.html
+45bf495fea0afeaf2e3c1352d07705076c3b383f Desktop/EGN_WEBSITE/my_documetation_work/src/app/homecomponet/homecomponet.component.spec.ts
+1946f7129346ec1732dce5a7be091ce89624e2a4 Desktop/EGN_WEBSITE/my_documetation_work/src/app/homecomponet/homecomponet.component.ts
+9283572e8c72eaafc38295b7b62af865eb85653e Desktop/EGN_WEBSITE/my_documetation_work/src/app/loger.service.ts
+8c53d490d903e9d6de9a98460a08801abf9ac064 Desktop/EGN_WEBSITE/my_documetation_work/src/app/message-biblestudy
+4649883d563db7a19dcf989419a69bdbaed3bac1 Desktop/EGN_WEBSITE/my_documetation_work/src/app/message-biblestudy/message-biblestudy.component.html
+ffdc8a7afb91394794b0d05699e4baf96b282822 Desktop/EGN_WEBSITE/my_documetation_work/src/app/message-biblestudy/message-biblestudy.component.spec.ts
+666762b91734c213deb08a7ae85027532b09c647 Desktop/EGN_WEBSITE/my_documetation_work/src/app/message-biblestudy/message-biblestudy.component.ts
+d229d6f12b48a2683f7acb75a576876cb9f14f4b Desktop/EGN_WEBSITE/my_documetation_work/src/app/messages
+0c77a88d0cf160b3c8d62ada7072b70843bcb5ae Desktop/EGN_WEBSITE/my_documetation_work/src/app/messages/messages.component.css
+e5e80e493ac2838492137b02701358d10d80a337 Desktop/EGN_WEBSITE/my_documetation_work/src/app/messages/messages.component.html
+bb89a7d3eb2e846510913689410494289021783d Desktop/EGN_WEBSITE/my_documetation_work/src/app/messages/messages.component.spec.ts
+c1ab2ace6f6af7a0f1e46d49469bc401b0796286 Desktop/EGN_WEBSITE/my_documetation_work/src/app/messages/messages.component.ts
+4b07a062146fa555a47d8d4501ae42a153fd3240 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord
+07daf1a0fc4b40835dd69031fc1eac34b118735f Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2021
+8b137891791fe96927ad78e64b0aad7bded08bdc Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2021/for-2021.component.html
+9f4d383c7f95329a856b1ee4c7d0e4b165602974 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2021/for-2021.component.spec.ts
+8c0c11a6a8ce0f80418e44b500de2ab359d9881a Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2021/for-2021.component.ts
+7e66beeef41c94186e3747594d8a50b940787264 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2022
+74dbbf3002c3e97bab11bebbcf005d90a8f72d82 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2022/for-2022.component.html
+b2a9d3968f8643bdd3c9d30441e0a56d0e1be6fe Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2022/for-2022.component.spec.ts
+a9919a0313917dad87bbb6ce50a5eab826dc8c18 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2022/for-2022.component.ts
+9c1d4ba8bff2c1737f50b110f5dc62389e9173d9 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2023
+465a392ab38dfe444e44c105fde71072844d8875 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2023/for-2023.component.html
+6b98b56bc4c9be5554a40050405e246b9085d46f Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2023/for-2023.component.spec.ts
+04639e05fbff9778266c257e822f4b5785aaf260 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/for-2023/for-2023.component.ts
+acb81924a38e400ebcba490054b50740b142b14d Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/ministering-to-the-lord.module.ts
+97238a667b8590b1fecce34fc9f1fc19fbddc290 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/ministering-to-the-lord-routing.module.ts
+bd74aad3103d391957ea7bd285ee43ec1c534d77 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/years
+3560d7ff85ef7499aea61c1912f9c58d65ab7c47 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/years/years.component.css
+b4c069ac606689042153a174461d913745ab85a3 Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/years/years.component.html
+c86b803456a8011037b1b7d7acfd41f73521544a Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/years/years.component.spec.ts
+4a3f875c2e30c134cdc57bec0de159fb1cf2feea Desktop/EGN_WEBSITE/my_documetation_work/src/app/ministering-to-the-lord/years/years.component.ts
+8bd97fd77b5c142e7743de92ffd3c094d9fca3b7 Desktop/EGN_WEBSITE/my_documetation_work/src/app/navbar
+a78a49761ad4aa419cd4c1a607a30fb1d9b797c2 Desktop/EGN_WEBSITE/my_documetation_work/src/app/navbar/navbar.component.css
+56221604aec0ce3cdc38da8b2dba6c8ce9163d0a Desktop/EGN_WEBSITE/my_documetation_work/src/app/navbar/navbar.component.html
+78867a6480a3d6fa689780a9591dd83f74793505 Desktop/EGN_WEBSITE/my_documetation_work/src/app/navbar/navbar.component.spec.ts
+871b1b9b2c46425e7302b857a8bf30bca1669e73 Desktop/EGN_WEBSITE/my_documetation_work/src/app/navbar/navbar.component.ts
+a615b052b70c06bf93e7a9ad4a2013e57addfcd3 Desktop/EGN_WEBSITE/my_documetation_work/src/app/new-wine-school-the-spirit
+a611254b3020c80c0f0213cf3eee8bfa6e2bba90 Desktop/EGN_WEBSITE/my_documetation_work/src/app/new-wine-school-the-spirit/new-wine-school-the-spirit.component.html
+9eb44eacc13fcbd45c939b85abc0c75494eafd73 Desktop/EGN_WEBSITE/my_documetation_work/src/app/new-wine-school-the-spirit/new-wine-school-the-spirit.component.spec.ts
+2d1c0a9cc5bae879ea2e204c31d481f755820b59 Desktop/EGN_WEBSITE/my_documetation_work/src/app/new-wine-school-the-spirit/new-wine-school-the-spirit.component.ts
+ef228a112cbea101c19f09cf323f57cbbc90a4d9 Desktop/EGN_WEBSITE/my_documetation_work/src/app/page-not-found
+cc75e49532cd1614cf964fdb3e839514a11db5e4 Desktop/EGN_WEBSITE/my_documetation_work/src/app/page-not-found/page-not-found.component.html
+19ef971979dddb9ad306649608ccece8924f8a80 Desktop/EGN_WEBSITE/my_documetation_work/src/app/page-not-found/page-not-found.component.spec.ts
+8f00ee2a7592e968e89bc93cd3cbc511a49a25a1 Desktop/EGN_WEBSITE/my_documetation_work/src/app/page-not-found/page-not-found.component.ts
+5c4ee4001888a119c395c9a8b47faea6bf8964bd Desktop/EGN_WEBSITE/my_documetation_work/src/app/school-of-the-spirit
+7df65125a10cb1a3828b2dc623f94019107ff3ec Desktop/EGN_WEBSITE/my_documetation_work/src/app/school-of-the-spirit/school-of-the-spirit.component.spec.ts
+16de70a19ed251e2041f2a31fc67b46c0f09a4e9 Desktop/EGN_WEBSITE/my_documetation_work/src/app/school-of-the-spirit/school-of-the-spirit.component.ts
+aad76de51b5266f9ac2cbac0a9d8dd180a9a8724 Desktop/EGN_WEBSITE/my_documetation_work/src/app/services
+3bfed5a3ef8e535b23cce356ff4fe2c09d148479 Desktop/EGN_WEBSITE/my_documetation_work/src/app/services/services.component.html
+b8387289bdef27f084ee452ea9168c00d1d57086 Desktop/EGN_WEBSITE/my_documetation_work/src/app/services/services.component.spec.ts
+09c7d47b68e14a34c023368c88d4c194e7e7a45c Desktop/EGN_WEBSITE/my_documetation_work/src/app/services/services.component.ts
+272b9f361db30834a045864727938ab29a4084fc Desktop/EGN_WEBSITE/my_documetation_work/src/app/testimony
+fd1994f7ca6d79c76d6396b1f7c86c19f11b80b3 Desktop/EGN_WEBSITE/my_documetation_work/src/app/testimony/testimony.component.html
+be56111603d11d23cc64f1dba37533473c782a38 Desktop/EGN_WEBSITE/my_documetation_work/src/app/testimony/testimony.component.spec.ts
+47f27ec1eae6cd7494aa6f2a33cc0168d6ab54b5 Desktop/EGN_WEBSITE/my_documetation_work/src/app/testimony/testimony.component.ts
+d50b707404fa8486bf52562ac8fe29a87a016851 Desktop/EGN_WEBSITE/my_documetation_work/src/assets
+d8f2c5247997ba2745dd2a90a50ad3ddda2630d5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets
+d4eb0e9a18ed30bdd319d0c52445a7d504e8ab2f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio
+0cef65307cd356ef3aabb331cca785ad2a0e8c06 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages
+23c468c6b4cddf12576a0b58723e88754771bf24 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Being Filled With the Spirit _ Apostle Miracle Ayo _ May 2, 2022.mp3
+f3377f3340517da2bbc49b1b6124ea162b9b95d5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Building Christ Consciousness _ Apostle Miracle Ayo _ May 9, 2022.mp3
+f98198bbd2877f31af641048566180ce230fc21a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Configuring our Sense of Knowing  _ Apostle Miracle Ayo _ August 15, 2022.mp3
+c8d79c023c6563c9c7abc0687d763702f111e6d2 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Daniel's 8th Vision and the Last Days _ Apostle Miracle Ayo _ October 10, 2022..mp3
+2cd09d58a41f1c0b06aed95214e009f4113105d8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Daniel's Chronological Study _ Apostle Miracle Ayo _ September 19, 2022.mp3
+4a8890ea0da09eb5abc792b2ad2d7e88b62d8cd4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Deliverance From Idolatry _ Apostle Miracle Ayo_ July 4, 2022.mp3
+ff1d14487c5d811f744c2d6cd4266ff70ae05945 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/desktop.ini
+ed6fb93f5864e08ee2d0be4649437a22410a457a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Governing Principles, Mountains and Seedlines _ Apostle Miracle Ayo _ November 7, 2022.mp3
+36a432da6065493219304689f8d696eb9663b52e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Insights Regarding Spiritual Warfare _ Apostle Miracle Ayo _ March 21, 2022.mp3
+9476cb2327c08806027c5e946a0b4ccda301fa78 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Jesus Christ; Humanity's Eyesight to God _ Apostle Miracle Ayo _ June 13, 2022.mp3
+69d01e6c0e64c5824aec8eb61f3fb17d9eb63b21 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Lessons From Daniel's 70 weeks Prophecy _ Apostle Miracle Ayo _ October 17, 2022.mp3
+408e6c7f7630750be13376df3b62dc4a6f7b18c2 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Living a Supernatural Life _ Apostle Miracle Ayo _ March 7, 2022.mp3
+bed5095787029208e169e6a48f39325b328b54a6 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Meditating on Truth _ Apostle Miracle Ayo _ June 6, 2022.mp3
+f31424371c73986e317f225dd9f6182fba447a4e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Neoma and the Renewal of the Mind _ Apostle Miracle Ayo _ April 4, 2022.mp3
+d12bb6d0a7114558801b7a2fe40da02c69f23c98 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Personal Preparation And Kairos Time _ Apostle Miracle Ayo _ October 24, 2022.mp3
+b874a300ed9f3a618afec8381fd0ca24fc0b135b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Prophetic Interpretation of the Jewish Year - 5783 _Apostle Miracle Ayo _ September 26, 2022.mp3
+942655bb2a9c1e28b556fe793cfd48e6306e32cb Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Prophetic Perspective Of The Last Days And The Veil Of Self Pity _ Apostle Miracle Ayo _ November 14, 2022.mp3
+7cec0290c3702658d7ffbd1281ce9e505cdb24ca Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Receiving Divine Guidance through the Mind _ Apostle Miracle Ayo _ March 28, 2022.mp3
+ca3bd9b2e1ec5f4d71fd76f9915d4b6ee1933f66 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Renewal by the Spirit of the Mind _Apostle Miracle Ayo _ February 28, 2022.mp3
+f878ceb1cc44f22a172b1566b6224fecf01d125f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Repentance and the Court of Heaven _ Apostle Miracle Ayo _ August 22, 2022.mp3
+742e10898e12f05071538d5c151d0ada373036a1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ April 11, 2022.mp3
+0c4a5d3d0ae19c31810a444c32fb8c936a09cd94 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ April 18, 2022.mp3
+accf7dcdbb31c33579bccb464330ef8b2376bf7b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ April 25, 2022.mp3
+0367ecbb431e4f3f89d14a203849b70eef84ca44 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ August 1, 2022.mp3
+dc81b23b30809e4978f1193ef219a6b8d791ff21 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ February 28, 2022.mp3
+6437fbc5e807b793c2b678b16fbea9abbcb479c1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ March 14, 2022.mp3
+82ea3d55c08e202ea08c3ff7a42a696eb421886d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism _ Apostle Miracle Ayo _ March 28, 2022.mp3
+48171ded82c1880752c12fb76ed7fb0dfb540d1e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Healing Evangelism Healing _ Apostle Miracle Ayo _ 27 June, 2022.mp3
+c36601d0c0f0dec9cdea6dc260721c9423448976 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Prophetic Healing Evangelism _ Apostle Miracle Ayo _ March 21, 2022.m4a
+f43a117d3971b0b03728b3e6161629bc6d53f5f8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Report for Prophetic Healing Evangelism _ Apostle Miracle Ayo _ March 21, 2022.mp3
+48da601edc199b26a32e083da586e4f09e6415d3 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Responding to the Operations of Christ _ Apostle Miracle Ayo _ May 16, 2022.mp3
+4ce82bd16a198b15dc8253d832172b83a2df7a5b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Righteousness for All Through Faith _ Apostle Miracle Ayo _ July 11, 2022.mp3
+f0a60876518e91c2460154805d40d83b79222f67 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Soul Development for Spiritual Progression _ Apostle Miracle Ayo _ April 11, 2022.mp3
+40ef8b16337263e922bfacc0aa046c496279eb2d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Spiritual Attacks And Your Inheritance In Christ _ Apostle Miracle Ayo _ October 31, 2022.mp3
+368624cdb5fe724c630acc855cf8696a52ed2d11 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Teaching on Healing _ Apostle Miracle Ayo _ July 4, 2022.mp3
+e1e22a099f111926a308f2ca2655359ad46998d1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Last Days And The Faith Of The Son Of God _ Apostle Miracle Ayo _ November 21, 2022.mp3
+b7aece96d09d8de551e3f3f292afbb1613efc922 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The New Way & Faith to Birth Realities_ Apostle Miracle Ayo _ August 29, 2022.mp3
+78fe7f9bea3ba3f344844a0a5d0cb1e618087801 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Price For Knowledge _ Apostle Miracle Ayo _ October 3, 2022..mp3
+29b203ec054a8c9a3362cdffc6bd4e5b1031348f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Pursuit of Divine Knowledge _ Apostle Miracle Ayo _ 27 June, 2022.mp3
+4fc48757cb6662933ddb88b3ce2295e14a446b0e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Sin of Israel (Inter-marriage&Idolatry) _ Apostle Miracle Ayo _ september 12, 2022.mp3
+4f5bc06a2fb3d7e72dc0724d58ebcb839fe7013f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Song of Moses _ Part one _ Apostle Miracle Ayo _ July 25, 2022.mp3
+fd3715c1c86377a2ef651ee8916f544051938f0a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Song of Moses _ Part Three _ Apostle Miracle Ayo _ August 8, 2022.mp3
+60b1a5bcec62e3e1f4f7187df5cf159619af366e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Song of Moses _ Part Two _ Apostle Miracle Ayo _ August 1, 2022.mp3
+1700792cedb91ff130239349bec67163ec6354ee Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/The Song of Moses and the Last Days _ Apostle Miracle Ayo _ September 5, 2022.mp3
+5c3b97ed5c6a1682a503a5efd537a9a6b061aaef Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Understanding through Divine Fellowship _ Apostle Miracle Ayo _ April 25, 2022.mp3
+e210eb8aebd99052b7fdeb0d377708f05e155bfe Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Unlocking the Administration of the Word _ Apostle Miracle Ayo _ April 18, 2022.mp3
+7ebbd452f44f0b8cfa06939a9840c0d0e47bb4c9 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Unveiling New Testament Realities _ Apostle Miracle Ayo _ May 30, 2022.mp3
+cf43bc6cea9418b10b896f2b17bfc9b5b1db8f4b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Upgrade into a Higher Plain of Reasoning _ Apostle Miracle Ayo _ March  14, 2022.mp3
+69fd482afc3fdf222ea45c1450eb2f71b5973081 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Walking in the Reality of the New Covenant _ Apostle Miracle Ayo _ June 20, 2022.mp3
+d7406cb2448556a4ad7b6519dc6ad2d076fa1024 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/Bible Study _ Monday Messages/Yielding to the Voice of Your Crown_Apostle Miracle Ayo_July 18th, 2022.mp3
+e2335afd270f736faf56ec60d0713f5421762680 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL
+146d03b22e9716ec597d983f5fb02ba8e838d3ee Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/CROWNS OF WISDOM MTTL AUGUST 2021
+e0ec247090d01391faac662bb7e43d7279127a1c Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/CROWNS OF WISDOM MTTL AUGUST 2021/The Mystery of Wisdom _ Apostle Miracle Ayo _ August 28, 2021.mp3
+20b949759d3af3605f87f7271f12b1c5278fe1b9 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/CROWNS OF WISDOM MTTL AUGUST 2021/The Structure and Pathway of Wisdom _ Apostle Miracle Ayo _ August 27, 2021.mp3
+6edecb930f4e692ae2d6ebadfd1bb341dc32ec1b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH
+022d9479d62af945951a111ca71ed2571e47457b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Born out of Duality into Reality _ Apostle Miracle Ayo _ April 22, 2022.mp3
+46e5a40179f42f8de6666bdbde1742d3c8f15ac0 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Deliverance from the Dwelling Places of Iniquity _ Apostle Miracle Ayo _ April 21, 2022.mp3
+61d32ac8f6b6a8e0e7d575d1e99000f3ba4d4419 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Presentation on Watchman Nee _ Samuel Daerego and Apostle Miracle Ayo _ April 23, 2022.mp3
+2a52354f38cf9d02207207d41985a3d17c5f7134 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Prophetic Worship _ Mary Abah, Peace John, Moses Edache and Lilian Simon _ April 23, 2022.mp3
+f8e876a361ce72c27e0710c576c681bfba3be2af Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Prophetic Worship _ Moses Edache, Gershon Aliyu, Victor Abah and Joshua Peter _ April 22, 2022.mp3
+a6f5c49ab4e9b69d4f2de505b5bdd2bfa7d1f58d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Seperation of the Waters for Spiritual Rebirth _ Apostle Miracle Ayo _ April 23, 2022.mp3
+b577abd1cea7b96c7f615090e9d6dd1ddc625dd8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/MTTL APRIL  20222 SPIRITUAL REBIRTH/Stages and Levels of Spiritual Rebrith _ Apostle Miracle Ayo _ April 23, 2022.mp3
+51c32645717993c4089d296be75133582aaf78bb Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/mttl march 2022 spiritual intelligent
+3d190546332e8f1b9263ee14d5d6e9dcfa21a151 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/mttl march 2022 spiritual intelligent/Presentation on Derick Prince _ Samuel Daerego and Apostle Miracle Ayo _ March 26, 2022-1.mp3
+a7399090f49341f271a93deb75e83e32c7bfd650 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/mttl march 2022 spiritual intelligent/Spiritual Intelligence and the Operations of Familiar Spirits _ Apostle Miracle Ayo _ March 25, 2022.mp3
+2f09d3b7610810dc88aa064e80cc728d5ecdcbb5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022
+f756a9a466282864ce271f5e106015915f0915db Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day One_ July 21, 2022
+b55027611adf8897749c7e2bd54ac5e5178b47cf Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day One_ July 21, 2022/Abigail's Priestly Precedence _ Apostle Miracle Ayo _ July 21, 2022.mp3
+253b404490084e1ce9883ef2620a5b3931e7cbdc Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day One_ July 21, 2022/Prayers and Legislation _ Samuel Daerego and Blessing Joseph _ July 21, 2022.mp3
+aa7d55b77105824a80349ddd75fa3e7bf9e2e368 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day One_ July 21, 2022/Prophetic Worship _ Daniel Adams and Moses Edache _ July 21, 2022.mp3
+4bb87e28a62c23d3fcdcfc5dc80d09821a3553e8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022
+c8c10456dc2d5d70a81d9361ad3f2645645386e4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Evening Session _ July 23, 2022
+e0a1ab46c325bd16ea36b53c99114f0d3dc021ef Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Evening Session _ July 23, 2022/Prayers and Legislation _ Joshua Peter _ July 23, 2022.mp3
+843fbddbfac4a54ac108147d4038e19d0016f49c Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Evening Session _ July 23, 2022/Prophetic Worship _ Daniel Adams, Mary Abah, Lilian Simon and Abraham _ July 23, 2022.mp3
+b591c49cc0757d2adec7dce2ed29f96c3975cb06 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Evening Session _ July 23, 2022/The Priestly Warfare of Sons _ Apostle Miracle Ayo _ July 23, 2022.mp3
+09a7eac6c60fd54ee14ae00e454d2994b1349f17 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Morning Session _ July 23, 2022
+2d8755cfc7a7269f00bf8b0f64dc1962a0c3cbd8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Morning Session _ July 23, 2022/Prayers and Legislation _  Victor Abah and Blessing Joseph _July 23, 2022.mp3
+9f8503a1f995d90d9695e84da68efb5911b65986 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Morning Session _ July 23, 2022/Priestly Precedence For Dominion _ Apostle Miracle Ayo _ July 23, 2022.mp3
+975631f102196d3e5f4e467aeccd96c1fb4953cd Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Three _ July 23, 2022/Morning Session _ July 23, 2022/Prophetic Worship _ Mary Abah and Moses Edache.mp3
+1528f529747aa3101d1a01f7b75538cc3cc25974 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Two _ July 22, 2022
+1795cc627b7d2edf5fefeb65d6874a5fc68a2df1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Two _ July 22, 2022/Prayers and Legislation _ Joy Ajah and Samuel Daerego _ July 22, 2022.mp3
+0bfaac6fc1085d40f94f592df8b0f7350ed13ce5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Two _ July 22, 2022/Prophetic Worship _ Mary Abah, Moses Edache, Lilian Simon and Daniel Adams _ July 22, 2022.mp3
+02870d4183c1a7e0848b7af1cd102e691b704221 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Priesthood and the Spheres _ July 2022/Day Two _ July 22, 2022/The Priesthood Beyond the Veil _ Apostle Miracle Ayo _ July 22, 2022.mp3
+f4a4dde749f382482935061535f7f520cfaac23a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022
+25892fda328f933d9394c9ead22c798b6ffba555 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day One _ June 16, 2022
+93da27bfc3b9aedcb56c79d0c0dbbc4f5d086d21 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day One _ June 16, 2022/Living in Prophetic Parallells through Priesthood _ Apostle Miracle Ayo _ June 16, 2022.mp3
+5447a004d2404fc691f9fa68a3547a458d6ce761 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day One _ June 16, 2022/Prayers and Legislation _ Joy Ajah and Samuel Daerego _ June 16, 2022.mp3
+93c2e7a45fe1044667299ea4bd5be3b36aebd4e1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day One _ June 16, 2022/Prophetic Worship _ Daniel Adams and Mary Abah _ June 16, 2022.mp3
+43bf937bcb5a565a3e4cc3c42dd9bdeb8f40d150 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022
+bab9d242a5b1a4bb848eceee9c5ca7a36b33aade Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Evening Session _ 18 ,June 2022
+e536d71bce48575b5818f3ad0f0eb356d0e3f981 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Evening Session _ 18 ,June 2022/Manifesting Heaven on Earth _ Apostle Miracle Ayo _ June 18, 2022.mp3
+74fd86c6b275c737ec72856bcac3e9b13dd01628 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Evening Session _ 18 ,June 2022/Prophetic Worship _ Mary Abah, Gershon Aliyu, Victor Abah and Moses Edache _ June 18, 2022.mp3
+7018b3e0f12f4ab23213c39882c6e3f08ef88a60 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Morning Session _ 18,  June 2022
+871b2602348787b8f98d5146f5fef4f14f664af2 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Morning Session _ 18,  June 2022/Prayers and Legislation _ Daniel Abah _ June 18, 2022.mp3
+aab0fe5ce9d99234b9d79eb977b23ef16954634d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Morning Session _ 18,  June 2022/Prophetic Worship _ Moses Edache, Mary Abah, Lilian Simon and Abraham  _ June18, 2022.mp3
+56f7c2260f029298082f58cad06f12b27e85d937 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Three _ June 18, 2022/Morning Session _ 18,  June 2022/Unveiling the Truth of the Last Days _ Apostle Miracle Ayo _ June 18, 2022.mp3
+c1eb9605cbe4044fc1776e8ffa3d0f85f7a6e6a6 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Two _ June 17, 2022
+de504d3f92f23d1e9ae79ee319ec9bdb14311b99 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Two _ June 17, 2022/Organic Structures and the Priesthood of Melchizedek _ Apostle Miracle Ayo _ June 17, 2022.mp3
+6fa31fd4a8fba0870e77e8506a7109ea0a5a1676 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Two _ June 17, 2022/Prayers and Legislation _ Joy Ajah and Blessing Joseph _ June 17, 2022.mp3
+a86a871263a1676ecb486721d36a0d5b16854131 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Prophetic Parallels _ June 2022/Day Two _ June 17, 2022/Prophetic Worship _ Mary Abah, Moses Edache, Lilian Simon and Gershon Aliyu _ June 17, 2022.mp3
+eb048ce0d4482f049286a43058a3313769d907de Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022
+0b2e4f19259a6f245639f6df3f29ef0cbc00d9ac Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day One _ February 24, 2022
+742744e3903f38dda252371e021444614a121aa0 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day One _ February 24, 2022/Accessing Dimension in Christ _ Apostle Miracle Ayo _ February 24, 2022.mp3
+583e218248fdf578b1505d0fd320921716deded3 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day One _ February 24, 2022/Prayers and Legislation _ Daniel Abah and Blessing _ February 24, 2022.mp3
+e73ead6f70bb01edf89cf49c6e3012f9dc1a54a8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day One _ February 24, 2022/Prophetic Worship _ Moses Edache, Mary Abah and Joshua Peter _ February 24, 2022.mp3
+4d8569d14b0c7a8ca5e830c65808a088fb1469fe Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022
+450e062d4ed032f79e227d793cc2339356e0c014 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Evening Session _ February 26, 2022
+80414468931c198fe49dfb969dae2685c8cd48a5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Evening Session _ February 26, 2022/Administration of Spiritual Dimensions _ Apostle Miracle Ayo _ February 26, 2022.mp3
+aefaab8c85c013682520c6bdae51eb7ddf764624 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Evening Session _ February 26, 2022/Prayers and Worship _ Daniel Adams, Abraham Johnson and Moses Edache _ February 26, 2022.mp3
+47acc6ffa61dced4f48d1ef462958e7fe65b8935 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Morning Session _ February 26, 2022
+270711c13e425477f0edcfd1b3abb8e18980bc34 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Morning Session _ February 26, 2022/Journeying Through Spirit Dimensions _ Apostle Miracle Ayo _ February 26, 2022.mp3
+0bed5f55ea5e8efcffd6c16eafa2a106ef3270f1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Morning Session _ February 26, 2022/Prayers and Legislation _ Joy Ajah _February 26, 2022.mp3
+413745ce0b256e94a57033c9f61097e5370bacbb Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Three _ February 26, 2022/Morning Session _ February 26, 2022/Prophetic Worship _ Mary Abah _ February 26, 2022.mp3
+62903438c13e8abfc539acf612d28e779d460bdc Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Two _ February 25, 2022
+aae860efeeb1331eb76e1a2ebabd5697b0e89da4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Two _ February 25, 2022/Communion and the Fellowship of Dwelling Places _ Apostle Miracle Ayo _ February 25, 2022.mp3
+1fe28a9d861f804fc09f2490dfc140f30864ad59 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Two _ February 25, 2022/Prayers and Legislation _ Samuel Daerego and Joy Ajah _ February 25, 2022.mp3
+958819602898efb5bdab4513ba3d14541125471c Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Dimension _ February 2022/Day Two _ February 25, 2022/Prophetic Worship _ Daniel Adams, Victor Abah and Moses Edache _ February 25, 2022.mp3
+19babe5167b0835b1af598cbd645f8facc3cd637 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022
+bec952aebd53fa12a251a32e776ca4d09339c920 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day One _ May 26, 2022
+2df5b77fa25ec821b73faafe81d169c5774312ab Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day One _ May 26, 2022/Accurate Interpretation for Authentic Kingdom  Experiences _Apostle Miracle Ayo _ May 26, 2022.mp3
+8339f9e593b77fac9700af583033b63d9cdf8944 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day One _ May 26, 2022/Prayers and Legislation _ Samuel Daerego and Joy Ajah _ May 26, 2022.mp3
+4d80371f9a7cbb5b99d307dde60c1865ae54c776 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day One _ May 26, 2022/Prophetic Worship  _ Mary Abah, Daniel Adams, Victor Abah and Moses Edache _ May 26, 2022.mp3
+862e5127b660d804ebccce3e34c5d6a273e34328 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022
+1479b10374f89859a8d50dfb077862d409ce2b98 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Evening Session _ May 28, 2022
+0f8420cbdd319d6f064251368e618efbb8dee946 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Evening Session _ May 28, 2022/Organic Structures and Ecosystems _ Apostle Miracle Ayo _ May 28, 2022.mp3
+f6ae0cb8216ed1c7fb77678e1f19888f14b25dcb Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Evening Session _ May 28, 2022/Prophetic Worship _ Mary Abah, Abraham Johnson, Victor Abah and Daniel Adams _ May 28, 2022.mp3
+db88f4065613fe848ac560e7eea97dbd237413de Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Morning Session _ May 28, 2022
+76983fd5153c136b9ca5fc8eeb1fd9a82162b0e5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Morning Session _ May 28, 2022/Prayers and Legislation _ Joy Ajah and Daniel Abah _ May 28, 2022.mp3
+29bc3132f36a7fb1752dd4993aab3f5528a9840b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Morning Session _ May 28, 2022/Prophetic Worship _ Moses Edache, Joy Sule, Daniel Adams and Abraham Johnson _ May 28, 2022.mp3
+82c56f11646a88f0cb99f23cb4837fca87f30814 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Three _ May 28, 2022/Morning Session _ May 28, 2022/Unveiling the Reality of the Parallel World _Apostle Miracle Ayo _ May 28, 2022.mp3
+455f540f11b5ad11550edd8d88dc20945acaacc3 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Two _ May 27, 2022
+d16bf05da8707697899a1913e44b718eb57c1ed8 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Two _ May 27, 2022/Baptism into a New Kingdom Consciousness _Apostle Miracle Ayo _ May 27th, 2022.mp3
+cf9448710e1088873f88181ff7bca893740bcfb7 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Two _ May 27, 2022/Prayers and Legislation _ Mary Abah and Samuel Daerego _ May 27th, 2022.mp3
+9f362a117be6838dde13f715c9bcaed298f63fec Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Ecosystem _ May 2022/Day Two _ May 27, 2022/Prophetic Worship _ Daniel Adams, Moses Edache, Joy Sule and Abraham Johnson _ May 27, 2022.mp3
+255a7db528ff34878bc9385fbed6066bfa0b62c4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022
+a242beed8d5ac71e5ad1c6cedf28824735d4530b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day One _ March 24, 2022
+c162541a6d8f2fc715f10699b73e744b54cc1db5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day One _ March 24, 2022/Prayers and Legislation _ Daniel Abah and Blessing Joseph _ March 24, 2022.mp3
+e7cb24ef9c40bca2a77b73c201ebc0b4d32b2f10 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day One _ March 24, 2022/Prophetic Worship _ Mary Abah, Peace John, Victor Abah and Moses Edache _ March 24, 2022.mp3
+b196b978ffab9aea4cf57669372dc686d384767a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day One _ March 24, 2022/Spiritual Altars and Highways _ Apostle Miracle Ayo _ March 24, 2022.mp3
+18d001ecaac9c6a814dbb1762891e0bdc933c0b0 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022
+73e044fed932a8d39ee9093f78f9a641f5acfa84 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Evening Session
+6af88bb7114254bce77dbd145ab9bb3a0cda50c1 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Evening Session/Dynamics of Spiritual Inheritance_ Apostle Miracle Ayo _ March 26, 2022.mp3
+246cae2823c3b58ae446b9d9e38b3fe07012f73a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Evening Session/Prayers and Legislation _ Ayuba Adamu _ March 26, 2022.mp3
+098bfad05328f8cca4fa4ff1c5fe3a3c6e72d73d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Evening Session/Presentation on Derick Prince _ Samuel Daerego and Apostle Miracle Ayo _ March 26, 2022.mp3
+c2281737b8a34bfebcf2b52dd0ead4215e0f7edc Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Evening Session/Presentation on the Lestra Sumrall Deliverance _ Daniel Abah and Apostle Miracle Ayo _ March 26, 2022.mp3
+2ce0d3e57b83c63fe9f14c53dc31af53b76b1965 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Morning Session
+407105f7c625cac4c026746edbe73e508fcbf559 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Morning Session/Prayer of Repentance _ Apostle Miracle Ayo _ March 26, 2022.mp3
+b821b1b3fb7122f0f08b65cd65af0fb4adb8a962 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Morning Session/Prayers and Legislation _ Daniel Abah _ March 26, 2022.mp3
+12d2a582aeb5998af54c2c703766115ee541d789 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Morning Session/Prophetic Worship_ Moses Edache _ March 26, 2022.mp3
+4ed72bdf2e8e2f4cf1c85bd7be518c7c4c952550 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Three _ March 26, 2022/Morning Session/Spiritual Intelligence for Kingdom Authenticity _ Apostle Miracle Ayo _ March 26, 2022.mp3
+085ac9f35c0f0cdceb862008c82142eb55fc1510 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Two _ March 25, 2022
+5c6a0bb7f67debf022b30db8931dce606d49c40b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Two _ March 25, 2022/Prayers and Legislation _ Joy Ajah and Samuel Daerego _ March 25, 2022.mp3
+f28a34e5162b26ab5c158ef80b5226ba3141217b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Two _ March 25, 2022/Prophetic Worship _ Daniel Adams, Moses Edache, Lilian Simon and Abraham Johnson _ March 25, 2022.mp3
+1a4de30175b980b133ecf308cc3b218a505aab51 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Intelligence  (Spiritual Wafare) _ March 2022/Day Two _ March 25, 2022/Spiritual Intelligence and the Operations of Familiar Spirits _ Apostle Miracle Ayo _ March 25, 2022.mp3
+a4ce5c58e3aa1b9708bcb94c2ce53c30fe1f5ecc Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022
+40a75d55885494708615ce36f538fd15812ac91a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day One _ Apirl 21, 2022
+2723725d17bb526dec77456b5a51be4c8c4a48a6 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day One _ Apirl 21, 2022/Prayers and Legislation _ Daniel Abah and Blessing Joseph _ April 21, 2022.mp3
+8f755aa978c59966e157d17717dab01f41a77ca6 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day One _ Apirl 21, 2022/Prophetic Worship _ Mary Abah, Gershon Aliyu, Victor Abah and Joshua Peter _ April 21, 2022.mp3
+89c88f1eaa38ed638184df1ec9e8a61fd1955484 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022
+4f7b2c39c2454b1c39cc6d3a295b8232f969a8ec Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022/Evening Sesssion
+de96f89a0aad4a598bac7b8a6c5c44e779b54659 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022/Evening Sesssion/Prophetic Worship _ Mary Abah _ April 23, 2022.mp3
+7b97083c170998d8b25affaa20a1df59d64fd317 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022/Morning Session
+0bbb11b25731cb45aa67acdbda226fcf5b8cc039 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022/Morning Session/Prayers and Legislation _ Ayuba Adamu and Blessing Joseph _ April 23, 2022.mp3
+e4396d5b1ed434cfcc2b0807f9d959c86fe56093 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Three _ April 23, 2022/Morning Session/Seperation of the Waters for Spiritual Rebirth _ Apostle Miracle Ayo _ April 23, 2022.mp3
+7b7e7b8e5b82689458b1ec8736c4281d54ff4f1f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Two _ April 22, 2022
+308ef76ad329def849f361df8debeef481f8c781 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/Spiritual Rebirth _ April 2022/Day Two _ April 22, 2022/Prayers and Legislation _ Samuel Daerego and Joy Ajah _ April 22, 2022.mp3
+07290640c05200dba9629c455047881289dd54f0 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022
+de349d8f5df87f85d625c969f854ac99efda5960 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day One _ August 25, 2022
+9e5358a6b451538761544e94b723029fca16dc72 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day One _ August 25, 2022/Activation and the Breaker Anointing _ Apostle Miracle Ayo_ August 25, 2022.mp3
+1e8760c72b3622308970eef9863fbbd85040cd9e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day One _ August 25, 2022/Prophetic Worship _ Mary Abah, Moses Edache, Victor Abah and Hezekiah Ochee _ August 25, 2022.mp3
+f082237bfeb6a459f7c1baa33f71f84d5560d8e9 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022
+6471c6b5adf619d8aeeff0a5227b64969f838f57 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Evening Session _ August 27, 2022
+454ffb9e7141440ff1df82756e39fce2888e4aeb Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Evening Session _ August 27, 2022/Prophetic Worship _ Mary Abah, Gershon Aliyu, Lilian Simon and Joshua Peter _ August 27, 2022.mp3
+106c7d6e1920e5ffe33596e9f957544641685322 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Evening Session _ August 27, 2022/The Melchizedek Consciousness _ Apostle Miracle Ayo _ August 27, 2022.mp3
+4acd6cc2d2756e63a7fc0530ef41847a2c086b3b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Morning Session _ August 27, 2022
+046cef2cf68e768de676253522627e46e64f022f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Morning Session _ August 27, 2022/Prayers and Legislation _ Joshua Peter and Blessing Joseph _ August 27, 2022.mp3
+b7ef2b6da890f8e32395c23a9ba226c15b627183 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Morning Session _ August 27, 2022/Prophetic Sound _ Apostle Miracle Ayo _ August 27, 2022.mp3
+4e4fae42d6b2740508cc43b3f68067fff22fd9ea Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Morning Session _ August 27, 2022/Prophetic Worship _ Mary Abah, Moses Edache, Lilian Simon and Joshua Peter _ August 27, 2022.mp3
+28c6c8d002f7f8bdc7b8964887a79db893305ff3 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Three _ August 27, 2022/Morning Session _ August 27, 2022/Vibrating with Divine Sequence and Patterns _ Apostle Miracle Ayo _ August 27, 2022.mp3
+bc63756c424f8a9cd4e43fb7d7e4d998d4836e27 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Two _ August 26, 2022
+c31f857255ad7a630c7646a0dbf4839cd3c313ed Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Two _ August 26, 2022/Baptisms and the Melchizedeck Order _ Apostle Miracle Ayo _ August 26, 2022.mp3
+f05f13898b1ec68940bcbafa1737d26fcb1e02d4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Two _ August 26, 2022/Prayers and Legislation _Joy Ajah and Daniel Abah _ August 27, 2022.mp3
+f5048f18b7e3b78e5748b1316405e4daabe9e81c Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Blueprint Of God _ August 2022/Day Two _ August 26, 2022/Prophetic Worship _ Moses Edache, Mary Abah, Victor Abah and Joshua Peter _ August 26, 2022.mp3
+c01234d3371affd5a73150164fd2aa7ee2001885 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021
+f33ee4ec29a8342cc4c0c56c1207e6e95bd32112 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021/Prophetic Declarations and Decrees _ Apostle Babs Adewumi _ December 17, 2021wav.mp3
+54a92cf6de4aff82fdc7fd07d07598f9d2cb7eee Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021/Stewarding Prophetic Moves, Timelines and Centers _ Apostle Babs Adewumi _ December 18, 2021.mp3
+d32fc96ae3bc8eb2308f51b6d11c5c390ab08966 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021/The Court of Heaven and Walking in the Spirit _ Apostle Miracle Ayo _ December 18, 2021.mp3
+f84cca98d2e8075680b9d39d9ea4e6d18479ab19 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021/The War of Images _ Apostle Miracle Ayo _ December 16, 2021.mp3
+83acd4b882f7f870a0cbe8285492118c319ef4a5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/THE CELESTIAL AND TERRESTIAL CHURCH MTTL DECEMBER 2021/The War of Images and Systems _ Apostle Miracle Ayo _ December 17, 2021.mp3
+4a0e843eba8f36c6bd1b5c33816619752e4bf5c9 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022
+8d8639eff30d832e28fe63eae4df6cfef0fccb0b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day One _ September 22, 2022
+f1d2e96ad8fb251a7003980e51266e6fec1ad27a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day One _ September 22, 2022/Characteristics and Operations of Familiar Spirit _ Apostle Miracle Ayo _ September 22, 2022.mp3
+87779e6874d0707d393c70621b2631042cb01d2f Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day One _ September 22, 2022/Prayers and Legislation _ Joshua Peter and Blessing Joseph _ September 22, 2022.mp3
+0b1c0cfb8722a7d5750870e9a8e76166acad6a1a Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day One _ September 22, 2022/Prophetic Worship _ Moses Edache, Gershon Aliyu, Lilian Simon and Joshua Peter _ September 22, 2022.mp3
+90e522627b531ea44a121378b6937293a8b73e87 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022
+64222e09d41fc49c65142cb911a5c8a3eb1cab15 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Evening Session _ September 24, 2022
+df7c9e01a58e9ab979adc9a10eebe0a061a78aff Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Evening Session _ September 24, 2022/Cultivating the Garden of Your Heart _ Apostle Miracle Ayo _ September 24, 2022.mp3
+92fd37537725fdbe0be73c4c4624b160b364f170 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Evening Session _ September 24, 2022/Prophetic Worship _ Mary Abah, Moses Edache, Victor Abah and Daniel Adams _ September 24, 2022.mp3
+4b8e6d554958a1a518db228a25e9508711faf0bd Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Morning Session _ September 24, 2022
+125dab7bf486ed02806fe0539fb2c68b03833edc Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Morning Session _ September 24, 2022/Identifying and Overthrowing Familiar Spirit _ Apostle Miracle Ayo _ September 24, 2022.mp3
+84fd23548a19e65e99b712237f55cc6d55877e2b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Morning Session _ September 24, 2022/Prayers and Legislation _ Joy Ajah and Blessing Joseph _ September 24, 2022.mp3
+aae386d740fe4c96b31ef3a839d9c13d0c0e6fbe Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Three _ September 24, 2022/Morning Session _ September 24, 2022/Prophetic Worship _ Moses Edache, Gershon Aliyu,Victor Abah and Daniel Adams _ September 24, 2022.mp3
+54b7d28ba93ecf2f367993ef3d400557927130b5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Two _ September 23, 2022
+4f35914d2d5ea0a411e0a44745ac308678eb8a1b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Two _ September 23, 2022/Prayers and Legislation _ Daniel Abah and Joy Ajah _ September 23, 2022.mp3
+fa834bf94a385e0eb7d0449429457a15f0e006bf Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Two _ September 23, 2022/Prophetic Worship _ Mary Abah, Deborah Ajah, Moses Edache and Joshua Peter _ September 23, 2022.mp3
+7504db2048840d787ec3ec29384de57cf036cd58 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Pathway _ September 2022/Day Two _ September 23, 2022/The Pathway and Your Gateways _ Apostle Miracle Ayo _ September 23,2022.mp3
+91f43bc2312336993131d506e4a62fd641b2b88e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022
+56c4effc8747d40e4e5d98542015d9d344c4a3f3 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day One _ October 27, 2022
+4381745491a4b895cc920edd649c80579dda3281 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day One _ October 27, 2022/Prayers and Legislation _ Daniel Abah _ October 27, 2022.mp3
+969067631e8d89694f49f938a9f73bb540ae0010 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day One _ October 27, 2022/Prophetic Worship _ Moses Edache, Lilian Simon and Victor Abah _ October 27, 2022.mp3
+d530b6e24f512f8a1443e5b5dcb45174d5ed0e9e Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day One _ October 27, 2022/The Mountain Of God And The Voice Of Thunder _ Apostle Miracle Ayo _ October 27,2022.mp3
+79d03f6a82589a0ae9b004b789bf22bdeefa0eac Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022
+be381dca7cc629812a4ae7ae08d6ebe8ca9c3619 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Evening Session
+41f5925148ff753353f6c58e9b7dbb31bfd3fae5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Evening Session/Presentation On Bob Jones _ Apostle Miracle Ayo _ October 29, 2022.mp3
+8e00c100e59e0a8f5cd81313d541c15472758b5d Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Evening Session/Prophetic Worship _ Moses Edache, Peace John, Lilian Simon and Victor Abah _ October 29, 2022.mp3
+06dd7c4d99c8d344ce3cae46e36b4f1b0357163b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Evening Session/The Rest Of God And The Faith Of God _ Apostle Miracle Ayo _ October 29, 2022.mp3
+c632fcc5929f2155dacc8d784728512bfe6f9198 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Morning Session
+cc83ea7d6b1c03f5059cd4a1759c4cd23339b5e5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Morning Session/Entering Into The Eternal Rest By The Shepherd's Rod_ Apostle Miracle Ayo _ October 29, 2022.mp3
+46b7528a1adfb5db0c7e99b05d9f9c1195f4e204 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Morning Session/Prayers and Legislation _ Blessing Joseph _ October 29, 2022.mp3
+0cce360f2c2eefe0490c47c601a8dbdb308bbf36 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Three _ October 29, 2022/Morning Session/Prophetic Worship _ Mary Abah, Deborah Ajah, Victor Abah and Moses Edache _ October 29, 2022.mp3
+adefde1da58476e58b2017a4b960551540f87531 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Two _ October 28, 2022
+efaa97b6dac78776b3e7db8ab2819f4ee11cd274 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Two _ October 28, 2022/Mystery Babylon And Your Mountain _ Apostle Miracle Ayo _ October 28, 2022.mp3
+42ac04adc4595304034b87fa4011448f3cb9411b Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Two _ October 28, 2022/Prayers and Legislation _ Joshua Peter _ October 28, 2022.mp3
+3f0bc711efb9181c5da397319c22317796ac2cf4 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/MTTL/The Shepherd 's Rod _ October 2022/Day Two _ October 28, 2022/Prophetic Worship _ Mary Abah, Peace John, Victor Abah and Moses Edache _ October 28, 2022.mp3
+bbf16d872e36147c3e462599103ded244f39b4f5 Desktop/EGN_WEBSITE/my_documetation_work/src/assets/audio/The Dynamics Of Engaging Trading Floors _ Miracle Ayo _ December 21, 2021.MP3
+81904aa792b120d48bb5bcd12b7582f7068423a6 Desktop/EGN_WEBSITE/my_documetation_work/src/index.html
+4b9d4d1545c1ab47af505ed30db385044f56df16 Desktop/EGN_WEBSITE/my_documetation_work/src/main.server.ts
+35b00f3463311f2afe0fd0d9d5f696dbb992dff5 Desktop/EGN_WEBSITE/my_documetation_work/src/main.ts
+be0d5ad1c7fa65761cac963b2bf5e182a2bc872c Desktop/EGN_WEBSITE/my_documetation_work/src/styles.css
+14d7b0dffd9abd826d00d2af0453ccf9314a7734 Desktop/EGN_WEBSITE/my_documetation_work/tailwind.config.js
+7dc7284f6c98ca84070999be6da664c01ed75af5 Desktop/EGN_WEBSITE/my_documetation_work/tsconfig.app.json
+f37b67ff0277fc28e7f8fc48ba7767e548bb19e7 Desktop/EGN_WEBSITE/my_documetation_work/tsconfig.json
+be7e9da76f7b2d7c73c119589e3b77008e66f5a8 Desktop/EGN_WEBSITE/my_documetation_work/tsconfig.spec.json
+b8f1191dbb59f6ecdde8de8b9c96a036f1f10ea7 Desktop/EGN_WEBSITE/my_documetation_work/[C[B[B[B[B[B[B[B[B[B[B[A[A[B
+d199482852fb89a11774952ed0ee863256804738 Desktop/EGN_WEBSITE/my_documetation_work/[C[B[B[B[B[B[B[B[B[B[B[A[A[B.pub
+767fa158b6f652a659fbe0b4041803a41be00de1 Desktop/sample app
+ac10513fdaa4039d0244d927e9b85d54f9c15dbe Desktop/sample app/sample.sh

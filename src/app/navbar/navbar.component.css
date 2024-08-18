@@ -1,0 +1,74 @@
+header {
+  padding: 10px;
+  background: white ;
+  position: relative;
+  z-index: 2;
+}
+.logo {
+  width: 90px;
+}
+.logo:hover {
+  cursor: pointer;
+}
+.desktop_menu {
+  margin-top: 24px;
+}
+.desktop_menu ul {
+  padding: 0;
+  margin: 0;
+}
+.desktop_menu ul li {
+  list-style-type: none;
+  color: rgb(30, 148, 119);
+  display: inline-block;
+  font-size: 18px;
+  margin-left: 26px;
+}
+.desktop_menu ul li:hover {
+  font-size: 19px;
+  font-weight: bold;
+  cursor: pointer;
+  color: yellow;
+  transition: 0.3s ease-in-out;
+}
+.menu-icon {
+  display: none;
+  color: blanchedalmond;
+
+}
+
+/* Media Query for Mobile Devices */
+@media screen and (min-width: 128px) and (max-width: 900px) {
+  .desktop_menu {
+    position: fixed;
+    right: -280px;
+    transition: 0.4s ease-in-out;
+    top: 64px;
+    background: rgba(234, 240, 239, 0.9); /* Semi-transparent background */
+    width: 280px;
+    height: 100%;
+    z-index: 3; /* Ensure it overlays other content */
+  }
+  .desktop_menu ul li {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 10px 0 10px 26px;
+    border-bottom: 1px solid grey;
+  }
+  .menu-icon {
+    display: block;
+    color: white;
+    font-size: 40px;
+    padding-top: 10px;
+    position: relative;
+    z-index: 4; /* Ensure it is above the sidebar */
+  }
+  .mobile_menu {
+    right: 0;
+    transition: 0.4s ease-in-out;
+  }
+}
+
+/* Background image settings */
+

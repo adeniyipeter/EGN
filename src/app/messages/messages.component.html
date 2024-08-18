@@ -1,0 +1,15 @@
+<h1 class="text-center font-extrabold text-yellow-300 text-3xl md:text-4xl lg:text-5xl mt-8 mb-6">
+  Experiencing God Network
+</h1>
+
+<div class="container  grid-cols-5 text-center gap-6 md:grid-cols-3 md:gap-8 mx-auto px-4">
+  <div *ngFor="let view of message" class="item bg-white shadow-lg rounded-lg overflow-hidden transition-transform transform hover:scale-105 h-20">
+    <div class="p-6">
+      <h4 class="text-lg font-serif text-gray-800 mb-2">
+        <a [href]="view.link" class="text-blue-600 hover:underline font-semibold">
+          {{ view.list }}
+        </a>
+      </h4>
+    </div>
+  </div>
+</div>

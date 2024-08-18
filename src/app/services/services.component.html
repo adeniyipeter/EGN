@@ -1,0 +1,12 @@
+<div class="grid gap-2  md:grid-cols-3 md:gap-5 mt-0 mx text-center mb-15">
+<div class="m-7 mr-0" *ngFor="let view of mypicture">
+
+    <img class="w-full min-h-full" [src]='view.image' alt="Sunset in the mountains">
+    <div class="px-6 py-4">
+      <div class="font-bold text-xl mb-2"><h2 cl ass="text-yellow-500" >{{view.name }}</h2></div>
+      <h2 cl  ass="text-black-700 text-base md:font-extrabold text-3md"> {{view.about |lowercase}} </h2>
+    </div>
+
+
+  </div>
+</div>
